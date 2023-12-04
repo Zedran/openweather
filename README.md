@@ -1,4 +1,4 @@
-# Open Weather
+# Go interface for Open Weather API
 
 This package provides procedures for retrieval of data from [OpenWeather API](https://openweathermap.org). The following end points are available:
 
